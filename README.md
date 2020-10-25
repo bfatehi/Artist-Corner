@@ -8,3 +8,5 @@ Views for segmented controls applies to the project view. These views are interc
 
 This app uses older versions of firebase for realtime database calls as well as facebook sdk for profile creation and profile picture pulling. BSKeyboard Controls
 found on github is also used for keyboard toolbar navigation.
+
+This does not contain appIPAs or database json necessary for use, and i have since turned off access to the firebase database so various calls will result in errors.
