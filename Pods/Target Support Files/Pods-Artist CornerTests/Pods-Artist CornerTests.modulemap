@@ -1,0 +1,6 @@
+framework module Pods_Artist_CornerTests {
+  umbrella header "Pods-Artist CornerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

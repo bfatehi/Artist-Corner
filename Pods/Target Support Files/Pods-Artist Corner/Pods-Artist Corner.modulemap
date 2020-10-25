@@ -1,0 +1,6 @@
+framework module Pods_Artist_Corner {
+  umbrella header "Pods-Artist Corner-umbrella.h"
+
+  export *
+  module * { export * }
+}
